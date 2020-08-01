@@ -1,0 +1,8 @@
+# Created by .ignore support plugin (hsz.mobi)
+archive
+dataset
+out
+a.png
+.idea
+*.h5
+fromImages
